@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://namkele.github.io/mywebsite/sitemap.xml
